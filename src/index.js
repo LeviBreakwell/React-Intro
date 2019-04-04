@@ -32,7 +32,7 @@ function App() {
   Headline("yoyo");
   return (
     <div className="App">
-      <Headline title="Facebook Friends" />
+      <Headline title="Likes" />
     </div>
   );
 }
