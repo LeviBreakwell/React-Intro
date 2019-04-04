@@ -29,7 +29,6 @@ function Headline(props) {
 }
 
 function App() {
-  Headline("yoyo");
   return (
     <div className="App">
       <Headline title="Likes" />
